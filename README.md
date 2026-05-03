@@ -1,17 +1,13 @@
-# Quartz v4
+# Digital Garden
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This is the source for my personal digital garden — a place where I write to think clearly.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+**Live site:** https://notes.balintkovarik.com
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## What's here
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+First-person reflections on real decisions and what they actually taught me. Not frameworks. Not advice from authority. Just my story, written from where I'm standing.
 
-## Sponsors
+## Tech
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Built with [Quartz v4](https://quartz.jzhao.xyz/) — a static-site generator for digital gardens. Content is authored in [Obsidian](https://obsidian.md/), then synced into `content/` and built to static HTML.
